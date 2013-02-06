@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="alert_message_delete_record">Soll die ausgewählte Aufnahme gelöscht werden?</string>
+  <string name="app_name">Aufnahme</string>
+  <string name="audio_db_album_name">Audio-Aufnahmen</string>
+  <string name="audio_db_artist_name">Deine Aufnahmen</string>
+  <string name="audio_db_playlist_name">Meine Aufnahmen</string>
+  <string name="audio_db_title_format">yyyy-MM-dd HH:mm:ss</string>
+  <string name="button_ok">OK</string>
+  <string name="call_record">Anruf aufnehmen(%d)</string>
+  <string name="call_record_or">oder</string>
+  <string name="default_record_name">Unbenannte Aufnahme</string>
+  <string name="delete_dialog_message">Soll die aktuelle Aufnahme gelöscht werden?</string>
+  <string name="dialog_delete">Löschen</string>
+  <string name="dialog_play">Abspielen</string>
+  <string name="dialog_send">Senden</string>
+  <string name="dialog_warning">Warnung</string>
+  <string name="error_app_internal">Interner Anwendungsfehler</string>
+  <string name="error_mediadb_new_record">Speichern der Aufnahme fehlgeschlagen</string>
+  <string name="error_sdcard_access">Zugriff auf externen oder internen Speicher fehlgeschlagen</string>
+  <string name="fm_record">FM-Aufnahme (%d)</string>
+  <string formatted="false" name="hour">%d Stunde(n)</string>
+  <string name="insert_sd_card">SD-Karte wird benötigt</string>
+  <string name="loading_duration">Dauer wird geladen...</string>
+  <string name="mark_now">(Aktuell)</string>
+  <string name="max_length_reached">Maximale Länge erreicht</string>
+  <string name="menu_setting">Einstellungen</string>
+  <string name="menu_view_record_list">Alle Aufnahmen</string>
+  <string formatted="false" name="minute">%d Minute</string>
+  <string name="no_file">Keine Aufnahmen</string>
+  <string name="notification_playback">Aufnahme wird wiedergegeben...</string>
+  <string name="notification_playback_paused">Wiedergabe angehalten...</string>
+  <string name="notification_recording">Wird aufgenommen...</string>
+  <string name="notification_stopped">Aufnahme wurde beendet</string>
+  <string formatted="false" name="notification_warning">Wenig Speicherplatz (weniger als %d Minuten)...</string>
+  <string name="open_file_explorer">Datei-Explorer öffnen</string>
+  <string formatted="false" name="overwrite_dialog_message">%s ist bereits vorhanden. Soll dies überschrieben werden?</string>
+  <string name="prefDefault_recordType">audio/3gpp</string>
+  <string name="prefDialogTitle_recordType">Bitte wählen Sie den Dateityp aus</string>
+  <string name="pref_summary_enable_high_quality">Audio-Dateien mit hoher Qualität werden eine größere Dateigröße haben</string>
+  <string name="pref_summary_enable_sound_effect">Toneffekt abspielen, wenn der Aufnahmestatus geändert wurde</string>
+  <string name="pref_title_enable_high_quality">Hohe Qualität aktivieren</string>
+  <string name="pref_title_enable_sound_effect">Toneffekt aktivieren</string>
+  <string name="pref_title_record_type">Aufnahme-Dateityp</string>
+  <string name="preferences_title">Einstellungen</string>
+  <string name="preparing_playback">Aufnahme wird geladen. Bitte warten...</string>
+  <string name="record_list">Aufnahmenliste</string>
+  <string name="record_saving">Aufnahme wird gespeichert. Bitte warten...</string>
+  <string name="recording">Wird aufgenommen...</string>
+  <string name="recording_stopped">Aufnahme wurde beendet</string>
+  <string name="sd_card_not_available">SD-Karte ist nicht verfügbar</string>
+  <string formatted="false" name="second">%d Sekunden</string>
+  <string name="storage_is_full">Speicher ist belegt</string>
+  <string formatted="false" name="timer_format">%02d:%02d</string>
+  <string name="unknown_caller">Unbekannter Anrufer</string>
+</resources>
